@@ -12,7 +12,7 @@ export default function App() {
           <a
             href="https://golden-marigold-44ac0f.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Sabina Horlova
           </a>{" "}
@@ -20,7 +20,7 @@ export default function App() {
           <a
             href="https://github.com/sabinahorlova/react-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GetHub
           </a>

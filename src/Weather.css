@@ -44,6 +44,7 @@
 .Weather .temperature {
   font-weight: 700;
   font-size: 90px;
+  margin-left: 10px;
 }
 
 .Weather .unit {
@@ -62,7 +63,7 @@
   color: #272343;
 }
 
-.Weather img {
+.Weather canvas {
   position: relative;
-  top: -20px;
+  top: -2px;
 }
