@@ -16,6 +16,12 @@
   color: rgba(39, 33, 66, 0.4);
 }
 
+.Weather .search-input:hover {
+  border: 1px solid #acdcee;
+  background: #ffffff;
+  color: #272343;
+}
+
 .Weather .btn {
   background: #acdcee;
   color: #272343;
